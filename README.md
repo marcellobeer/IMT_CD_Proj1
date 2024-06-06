@@ -1,4 +1,4 @@
-# Projeto 1 de Ciência de Dados: Análise dos Times Finalistas da NBA na Temporada 2023-24
+# Projeto 1 de Ciência de Dados: EDA - Análise dos Times Finalistas da NBA na Temporada 2023-24
 Acesse o Python Notebook para explorar o estudo realizado!
 
 ## Alunos
